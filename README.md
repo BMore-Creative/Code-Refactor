@@ -1,7 +1,7 @@
-# Homework-01
+# Code-Refactor
 
 ![image](https://user-images.githubusercontent.com/80925456/118404193-ac42bf00-b626-11eb-8306-1919b6c3ba10.png)
 
 Website by Horiseon detailing various online marketing variables for companies
 
-https://bmore-creative.github.io/Homework-01/
+https://bmore-creative.github.io/Code-Refactor/
